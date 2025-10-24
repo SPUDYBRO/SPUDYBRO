@@ -1,5 +1,5 @@
 ### About me:
-Hey, my name is SPUDYBRO. I am a software/game developer in training. Im almost done with year 12 and after that i will be developing and releasing my first ever game!
+Hey, my name is SPUDYBRO. I am a software/game developer in training. I have conpleted my first year university at swinburne!
 
 Although most of my repo's are private, I plan on expanding my repo's to include more public resources we can all use :) happy programming everyone!
 

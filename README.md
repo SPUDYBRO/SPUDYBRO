@@ -33,4 +33,4 @@ Although most of my repo's are private, I plan on expanding my repo's to include
 ### OS
 | Windows 10/11 |
 |---------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="VSCode" alt="VSCode" witdh="55" height=">
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="VSCode" alt="VSCode" witdh="55" height="/>
